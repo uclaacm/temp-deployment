@@ -1,0 +1,8 @@
+{
+  "lambda": {
+    "role": "claudia-test-executor",
+    "name": "temp-deployment",
+    "region": "us-west-1",
+    "sharedRole": true
+  }
+}
